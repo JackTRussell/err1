@@ -1,4 +1,4 @@
-@ST_20252 @tagtagtag @this_is_story_tag @new_changes
+@ST_20539 @tagtagtag @this_is_story_tag @new_changes
 Feature: Just feature for testing
 I want to see new description with new changes
 
@@ -7,7 +7,7 @@ Background:
 Given new changes
 And we have this story in Jira
 
-@SC_86359 @first_scenario_tag
+@SC_87576 @first_scenario_tag
 Scenario: First scenario
 There is scenario description
 Lorem ipsum dolor sit amet, mea dico volumus copiosae cu, debet movet doctus ex nec, at adipisci interpretaris usu. Has feugiat ponderum te. Pri nisl case id, te est diam sint regione, in alii philosophia sit. Ius ancillae voluptaria cu. Ut eam dicta partiendo.
@@ -19,7 +19,7 @@ Then I see it in Relime
 And I add some changes
 And more changes were added
 
-@SC_86761 @first_scenario_tag
+@SC_87577 @first_scenario_tag
 Scenario: First scenario
 There is scenario description
 Lorem ipsum dolor sit amet, mea dico volumus copiosae cu, debet movet doctus ex nec, at adipisci interpretaris usu. Has feugiat ponderum te. Pri nisl case id, te est diam sint regione, in alii philosophia sit. Ius ancillae voluptaria cu. Ut eam dicta partiendo.
