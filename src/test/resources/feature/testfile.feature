@@ -2,8 +2,9 @@
 Feature: test story
 
 @SC_883014452
-Scenario: 
+Scenario Outline: 
 Given new story is created in Relime
-And was loaded to Git
-
+And was loaded to Git with <error>
+|error|
+|\|
 
