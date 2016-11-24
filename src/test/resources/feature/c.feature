@@ -18,4 +18,3 @@ Given I created scenario
 Then I see it in Relime
 And I add some changes
 And more changes were added
-But gjk
