@@ -1,4 +1,4 @@
-
+@ST_20559
 Feature: Just feature for testing
 I want to see new description with new changes
 
@@ -7,6 +7,7 @@ Background:
 Given new changes
 And we have this story in Jira
 
+@SC_87618
 Scenario: First scenario
 There is scenario description
 Lorem ipsum dolor sit amet, mea dico volumus copiosae cu, debet movet doctus ex nec, at adipisci interpretaris usu. Has feugiat ponderum te. Pri nisl case id, te est diam sint regione, in alii philosophia sit. Ius ancillae voluptaria cu. Ut eam dicta partiendo.
